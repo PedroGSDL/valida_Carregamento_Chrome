@@ -8,7 +8,7 @@ Utilizando Selenium, Chrome WebDriver e um Script AutoIT, realiza a verificaçã
     <li>.Net 6.0 (ou maior)</li>
     <li>Chrome Driver (Equivalente a versão do seu Google Chrome)</li>
     <li>Um áudio (.mp3 ou .wav)</li>
-    <li>Script Auto-It (Está entre os arquivos)</li>
+    <li>Script Auto-It com os dados de Login e Senha</li>
     <li>Alterações de caminhos no código-fonte, indicando o caminho do Chrome Driver, do áudio e do .exe do script Auto-It.</li>
   </ul>
 </ol>
